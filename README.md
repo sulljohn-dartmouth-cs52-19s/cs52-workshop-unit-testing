@@ -2,4 +2,4 @@
 
 *Completed by John Sullivan 5/7/2019*
 
-Surge URL: [Link]()
+Since no frontend components were changed in thus tutorial, it was not deployed on Surge.
